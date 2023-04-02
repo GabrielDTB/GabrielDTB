@@ -7,11 +7,11 @@
 
 
 <a href="https://wakatime.com/@GabrielDTB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GabrielDTB&theme=onedark&layout=compact&custom_title=This%20Week%20in%20Code" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GabrielDT&theme=onedark&layout=compact&custom_title=This%20Week%20in%20Code" /> 
 </a>
 </br>
 <a href="https://github.com/GabrielDTB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielDT&count_private=true&custom_title=My%20GitHub%20Stats&hide=stars,contribs&theme=onedark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielDTB&count_private=true&custom_title=My%20GitHub%20Stats&hide=stars,contribs&theme=onedark&show_icons=true" />
 </a>
 </br>
 <a href="https://github.com/GabrielDTB?tab=repositories">
