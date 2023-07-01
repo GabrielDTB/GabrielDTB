@@ -6,10 +6,6 @@
 ### Stats
 
 
-<a href="https://wakatime.com/@GabrielDTB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GabrielDTB&theme=onedark&custom_title=This%20Week%20in%20Code" /> 
-</a>
-</br>
 <a href="https://github.com/GabrielDTB">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielDTB&count_private=true&custom_title=My%20GitHub%20Stats&hide=stars,contribs&theme=onedark&show_icons=true" />
 </a>
